@@ -1,2 +1,2 @@
-kernel_old=1
-disable_commandline_tags=1
+# Raspberry pi 4
+arm_64bit=1
